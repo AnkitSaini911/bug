@@ -1,0 +1,13 @@
+echo "# bug" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/AnkitSaini911/bug.git
+git push -u origin master
+
+
+ git add bugexamples
+ git commit -m "first commit"
+ git remote add origin https://github.com/AnkitSaini911/bug.git
+ git push -u origin master
+
